@@ -1,0 +1,24 @@
+#Example:::
+
+<html>
+
+<head>
+<title> BANNER </title>
+</head>
+
+<body>
+<h1><b>BANNER</b></h1>
+<p>This is an <b>introduction</b> to Git/GitHub. </p>
+<ul>
+<li><b>B</b><i>rittish</i>
+<li><b>A</b><i>erospace</i>
+<li><b>N</b><i>ested</i>
+<li><b>N</b><i>etwork</i>
+<li><b>E</b><i>ngineering</i>
+<li><b>R</b><i>epository</i>
+</ul>
+
+
+
+
+</html>
